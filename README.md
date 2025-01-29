@@ -1,1 +1,1 @@
-# Java-Projects
+Snake game using java frameworks
